@@ -161,6 +161,7 @@ ro.hardware.vulkan=adreno
 vendor.gralloc.disable_ubwc=0
 vendor.opengles.version=196610
 graphics.gpu.profiler.support=true
+debug.sf.enable_egl_image_tracker=0
 
 # IMS
 persist.dbg.volte_avail_ovr=1
